@@ -8,12 +8,8 @@ public class Main {
         List<Integer> numeros3 = new ArrayList<>();
 
         List<Double> uno = analizar(numeros1);
-        List<Double> dos = analizar(numeros2);
-        List<Double> tres = analizar(numeros3);
 
         leer(uno);
-        leer(dos);
-        leer(tres);
     }
     public static List<Double> analizar(List<Integer> lista){
         double total = 0;
