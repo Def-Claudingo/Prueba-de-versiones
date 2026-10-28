@@ -4,7 +4,6 @@ public class Main {
 
     // Un flipante usuario escribio este mensaje: papayas
 
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double saldoFinal = 0;
